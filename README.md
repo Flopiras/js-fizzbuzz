@@ -12,16 +12,14 @@ Scrivi un programma che stampi in console i numeri da 1 a 100, ma che
 
 1. Creare un ciclo che mi dia i numeri in sequenza da 1 a 100
 2. Stampare in Console i numeri del ciclo
-   - **SE** il numero è divisibile per 3 deve apparire FIZZ
-     - Dichiarare una costante con modulo
-     - Sostituire FIZZ al numero
-       -Stamparlo in console
-   - **SE INVECE** il numero è divisibile per 5 deve apparire BUZZ
-     - Dichiarare una costante con modulo
-     - Sostituire FIZZ al numero
-       -Stamparlo in console
-   - **SE INVECE** il numero è divisibile per 3 **E ANCHE** per 5 deve apparire FIZZBUZZ
-     - Fare la validazione
-     - Dichiarare una costante
-     - Sostituire FIZZBUZZ al numero
-       -Stamparlo in console
+3. Dichiarare una variabile per ogni numero
+
+   - **SE** il numero è divisibile per 3 **E ANCHE** per 5
+     - Assegnare valore 'FIZZBUZZ' alla variabile
+   - **SE INVECE** il numero è divisibile per 3
+     - Assegnare valore 'FIZZ' alla variabile
+   - **SE INVECE** il numero è divisibile per 5
+     - Assegnare valore 'BUZZ' alla variabile
+   - **ALTRIMENTI** assegnare alla variabile lo stesso valore della variabile del ciclo
+
+4. Stampare il valore della variabile in console
