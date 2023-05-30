@@ -23,3 +23,16 @@ Scrivi un programma che stampi in console i numeri da 1 a 100, ma che
    - **ALTRIMENTI** assegnare alla variabile lo stesso valore della variabile del ciclo
 
 4. Stampare il valore della variabile in console
+
+<hr>
+
+**BONUS 1:**
+
+Crea un elemento che faccia da contenitore nel DOM e poi riempilo con i tuoi elementi via JS.
+Puoi usare varie tecniche (template literals, innerHTML, append, ecc)
+
+**TO DO**
+
+1. Prendere un elemento dal DOM
+2. Creare una costante che andrà a scrivere nell'HTML
+   - creare una colonna con all'interno il valore della variabile del ciclo ricavata in precedenza
