@@ -34,5 +34,7 @@ Puoi usare varie tecniche (template literals, innerHTML, append, ecc)
 **TO DO**
 
 1. Prendere un elemento dal DOM
-2. Creare una costante che andrà a scrivere nell'HTML
-   - creare una colonna con all'interno il valore della variabile del ciclo ricavata in precedenza
+   - Creare il collegamento fuori dal ciclo creato precedentemente
+   - Creare una costante che andrà a collegarsi con le variabili del ciclo
+     - Collegare la mia variabile all'interno del ciclo
+   - Creare una colonna con all'interno il valore della variabile del ciclo ricavata in precedenza
