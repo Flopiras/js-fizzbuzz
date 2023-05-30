@@ -13,8 +13,15 @@ Scrivi un programma che stampi in console i numeri da 1 a 100, ma che
 1. Creare un ciclo che mi dia i numeri in sequenza da 1 a 100
 2. Stampare in Console i numeri del ciclo
    - **SE** il numero è divisibile per 3 deve apparire FIZZ
-     - Calcolare il modulo
+     - Dichiarare una costante con modulo
+     - Sostituire FIZZ al numero
+       -Stamparlo in console
    - **SE INVECE** il numero è divisibile per 5 deve apparire BUZZ
-     - Calcolare il modulo
+     - Dichiarare una costante con modulo
+     - Sostituire FIZZ al numero
+       -Stamparlo in console
    - **SE INVECE** il numero è divisibile per 3 **E ANCHE** per 5 deve apparire FIZZBUZZ
      - Fare la validazione
+     - Dichiarare una costante
+     - Sostituire FIZZBUZZ al numero
+       -Stamparlo in console
